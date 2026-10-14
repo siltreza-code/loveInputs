@@ -27,7 +27,7 @@ local m = {
     },
     debug = false
 }
-local random = require("utils.random")
+local random = require("random")
 
 -- keyboard
 function love.keypressed(key, scancode, isrepeat)
